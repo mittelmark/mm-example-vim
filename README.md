@@ -17,8 +17,9 @@ git clone https://github.com/mittelmark/mm-example-vim ~/.vim/pack/mittelmark/st
 * `DisplayTime` - show current time (Vimscript)
 * `DefineWord` - place cursor on a word and get defintions for that word
   (Python)
-* `PythonVersion` - get the PythonVersion for your Vim installation
-* `AspellCheck` - use Aspell to check the word under cursor 
+* `PythonVersion` - get the PythonVersion for your Vim installation (Python)
+* `AspellCheck` - use Aspell to check the word under cursor (Console
+  application) 
 
 ## Files
 
